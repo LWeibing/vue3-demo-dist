@@ -1,0 +1,1 @@
+import{h as s}from"./request-C_416Kza.js";const r=async()=>await s.request("get","/user/list"),a=async e=>await s.request("get","/user/search",e),u=async e=>await s.request("post","/user/edit",e);export{a,u as e,r as u};
