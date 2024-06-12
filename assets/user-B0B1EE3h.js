@@ -1,1 +1,0 @@
-import{h as s}from"./request-2N9h1qBK.js";const r=async()=>await s.request("get","/user/list"),a=async e=>await s.request("get","/user/search",e),u=async e=>await s.request("post","/user/edit",e);export{a,u as e,r as u};
